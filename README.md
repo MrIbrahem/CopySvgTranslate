@@ -1,2 +1,2 @@
-# CopySVGTranslate
-Package 'CopySVGTranslate' has been renamed to 'CopySVGTranslation'.
+# CopySvgTranslate
+Package 'CopySvgTranslate' has been renamed to 'CopySVGTranslation'.
